@@ -1,0 +1,16 @@
+{
+  "name": "cdek-calculator-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for CDEK API integration with TapTop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
